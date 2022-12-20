@@ -1,0 +1,22 @@
+/*Media queries for desktop, mobile, and in between*/
+
+/*Creates hamburger on mobile*/
+@media screen and (max-width: 480px) {
+        #desktop {
+            display:none;
+        }
+}
+
+/*Removes hamburger on desktops*/
+@media screen and (min-width:1025px) {
+    #mobile {
+            display:none;
+        }
+}
+
+/*Defaults to hamburger on any other size*/
+@media (min-width: 479px) and (max-width: 1024px) {
+  #desktop {
+            display:none;
+        }
+}

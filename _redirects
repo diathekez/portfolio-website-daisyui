@@ -1,6 +1,10 @@
-# for root
-/*              /index.html     200
+# This is in case you need to use redirects to remove .html from your directories
+# For Netlify only
+# Read more here: https://docs.netlify.com/routing/redirects/
 
-# for the rest
-/about*        /about.html     200
-/contact*      /contact.html   200
+# for root
+/index.html        /
+
+# For everything else (add accordingly)
+/about.html        /about
+/contact.html      /contact
