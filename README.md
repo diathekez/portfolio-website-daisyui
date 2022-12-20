@@ -3,7 +3,7 @@ A portfolio website built with DaisyUI.
 
 **Link to project:** https://bob-boberson.netlify.app/
 
-![Landing page](#)
+![Bob Boberson hero section with nav bar](https://raw.githubusercontent.com/diathekez/portfolio-website-daisyui/master/imgs/bob-boberson-screenshot.png)
 
 ## Summary
 
